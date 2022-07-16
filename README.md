@@ -8,7 +8,7 @@
 - 💻 Git, MySQL, Postgres, MongoDB, PHP, Codeigniter, CakePHP, Javascript, JQuery, AJAX, Node.JS, React.JS e React Native   
 - 📘 Estudando: Cloud Computing, CI/CD, Testes Unitários com JEST e Docker.    
 - 💬 Sobre mim: Gosto de desafios grandes e de contribuir para soluções que façam a diferença na realidade de outras pessoas.  
-- 📫 raifreelas@gmail.com    
+- 📫 adambaran0123@gmail.com    
 
 <code><a href="https://www.digitalocean.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
