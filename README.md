@@ -1,5 +1,5 @@
 ### Adam Baran! 👋
-👨🏻‍💻 FullStack Developer 👨🏻‍💻  
+👨🏻‍💻 Blockchain & FullStack Developer 👨🏻‍💻  
 
 <img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
